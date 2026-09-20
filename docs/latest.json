@@ -1,0 +1,112 @@
+{
+ "date": "2026-09-20",
+ "picks": [
+  {
+   "coin": "ZEC",
+   "side": "long",
+   "score": 7,
+   "entry": 1441.5,
+   "stop": 1206.311569,
+   "target": 1911.876862,
+   "rsi": 67,
+   "ret20": 0.699,
+   "comment": "Price is 122% above EMA200 and 21% above EMA20 with 70% 20-day return, showing strong sustained uptrend; RSI at 67 indicates momentum strength with room before overbought. Risk: ATR extension ratio of 2.13 is the highest in the dataset, meaning volatility is stretched and mean-reversion pull-backs are likely before target."
+  },
+  {
+   "coin": "HYPE",
+   "side": "long",
+   "score": 7,
+   "entry": 91.011,
+   "stop": 81.475738,
+   "target": 110.081524,
+   "rsi": 64,
+   "ret20": 0.081,
+   "comment": "Close sits 54% above EMA200 and 9% above EMA20 with RSI at 64 in bullish zone; 18% 5-day return confirms acceleration into the entry. Risk: ATR extension of 1.65 combined with 8% 20-day return shows price has already moved significantly, leaving limited cushion before stop-loss (9.5% below entry)."
+  },
+  {
+   "coin": "BTC",
+   "side": "long",
+   "score": 6,
+   "entry": 80390.0,
+   "stop": 75982.937902,
+   "target": 89204.124197,
+   "rsi": 61,
+   "ret20": 0.023,
+   "comment": "Price is 11% above EMA200 and 3% above EMA20 with RSI at 61, representing early-stage trend confirmation; 6% 5-day return shows recent momentum. Risk: 20-day return of only 2.3% is weakest among the three picks and suggests BTC has stalled relative to alts, making the 4.3% upside to target vulnerable to consolidation."
+  }
+ ],
+ "market": {
+  "BTC": {
+   "score": 6,
+   "close": 80390.0,
+   "ema20": 77883.320233,
+   "ema50": 74493.198043,
+   "ema200": 72633.270339,
+   "rsi": 60.844006,
+   "ret20": 0.023112,
+   "atr": 2203.531049,
+   "ext_atr": 1.137574,
+   "ret5": 0.063247
+  },
+  "ETH": {
+   "score": 6,
+   "close": 2577.4,
+   "ema20": 2478.853917,
+   "ema50": 2319.065688,
+   "ema200": 2204.173392,
+   "rsi": 60.336448,
+   "ret20": 0.044327,
+   "atr": 100.500725,
+   "ext_atr": 0.980551,
+   "ret5": 0.075261
+  },
+  "SOL": {
+   "score": 6,
+   "close": 108.26,
+   "ema20": 102.478061,
+   "ema50": 95.094171,
+   "ema200": 90.367661,
+   "rsi": 59.521179,
+   "ret20": 0.05117,
+   "atr": 5.064398,
+   "ext_atr": 1.141683,
+   "ret5": 0.118077
+  },
+  "XRP": {
+   "score": 2,
+   "close": 1.3798,
+   "ema20": 1.357959,
+   "ema50": 1.296419,
+   "ema200": 1.330189,
+   "rsi": 53.388818,
+   "ret20": 0.0,
+   "atr": 0.079091,
+   "ext_atr": 0.276151,
+   "ret5": 0.0757
+  },
+  "ZEC": {
+   "score": 7,
+   "close": 1441.5,
+   "ema20": 1191.430781,
+   "ema50": 940.776753,
+   "ema200": 615.767721,
+   "rsi": 66.610823,
+   "ret20": 0.699061,
+   "atr": 117.594215,
+   "ext_atr": 2.126544,
+   "ret5": 0.298064
+  },
+  "HYPE": {
+   "score": 7,
+   "close": 91.011,
+   "ema20": 83.148179,
+   "ema50": 76.391375,
+   "ema200": 59.222234,
+   "rsi": 63.802348,
+   "ret20": 0.081263,
+   "atr": 4.767631,
+   "ext_atr": 1.649209,
+   "ret5": 0.183344
+  }
+ }
+}
