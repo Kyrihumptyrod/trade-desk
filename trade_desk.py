@@ -617,7 +617,7 @@ def main():
     d.add_argument("--out", default="~/TradeDesk")
     d.add_argument("--threshold", type=int, default=4, help="min |score| to become a pick (max 8)")
     d.add_argument("--max-picks", type=int, default=3)
-    d.add_argument("--model", default=os.environ.get("TRADEDESK_MODEL", "claude-sonnet-5"))
+    d.add_argument("--model", default=os.environ.get("TRADEDESK_MODEL", "claude-haiku-4-5-20251001"))
     d.add_argument("--demo", action="store_true")
     a = ap.parse_args()
     {"backtest": cmd_backtest, "portfolio": cmd_portfolio, "journal": cmd_journal, "daily": cmd_daily}[a.cmd](a)
