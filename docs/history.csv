@@ -26,3 +26,4 @@ pick_date,coin,side,score,entry,stop,target,status,exit_date,exit_px,result_R,co
 2026-10-23,HYPE,short,-5,77.937,85.669053,62.472893,open,,,,,
 2026-10-24,ETH,short,-5,2385.5,2565.024216,2026.451569,open,,,,,
 2026-10-24,XRP,short,-5,1.2917,1.410754,1.053593,open,,,,,
+2026-10-27,SOL,short,-5,100.11,108.396787,83.536426,open,,,,,
