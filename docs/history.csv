@@ -24,7 +24,10 @@ pick_date,coin,side,score,entry,stop,target,status,exit_date,exit_px,result_R,co
 2026-10-07,ETH,long,7,2698.1,2547.680748,2998.938504,stopped,2026-10-08,2547.680748,-1.0,False,"Price is 6.5% above EMA20 (2660) with 20-day return of 10.3% and RSI at 60 indicating upward momentum in an established uptrend (EMA20 > EMA50 > EMA200). Stop-loss at 2547.68 is 5.6% below entry with target 2998.94 offering 11% upside, but the extended ATR of 0.51 suggests volatility is muted relative to historical ranges, limiting swing magnitude."
 2026-10-19,XRP,short,-5,1.3046,1.427713,1.058375,expired,2026-10-24,1.2917,0.1,True,"Lowest score (-5) with RSI at 37 (oversold) and -12.5% return over 20 days suggests continued downside momentum; target of 1.058 represents 19% further decline from entry. Main risk is oversold RSI bounce or technical support holding at EMA200 (1.326), which could trigger sharp reversal above stop-loss."
 2026-10-23,HYPE,short,-5,77.937,85.669053,62.472893,expired,2026-10-28,81.24,-0.43,False,
-2026-10-24,ETH,short,-5,2385.5,2565.024216,2026.451569,open,,,,,
-2026-10-24,XRP,short,-5,1.2917,1.410754,1.053593,open,,,,,
+2026-10-24,ETH,short,-5,2385.5,2565.024216,2026.451569,expired,2026-10-29,2316.8,0.38,True,
+2026-10-24,XRP,short,-5,1.2917,1.410754,1.053593,expired,2026-10-29,1.2938,-0.02,False,
 2026-10-27,SOL,short,-5,100.11,108.396787,83.536426,open,,,,,
 2026-10-28,ZEC,long,7,1320.5,1105.180728,1751.138543,open,,,,,
+2026-10-29,ETH,short,-4,2316.7,2488.654023,1972.791953,open,,,,,
+2026-10-29,XRP,short,-4,1.2938,1.403016,1.075367,open,,,,,
+2026-10-29,HYPE,short,-4,78.8,86.487395,63.42521,open,,,,,
